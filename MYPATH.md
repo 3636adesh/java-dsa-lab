@@ -1,6 +1,7 @@
 # DSA Learning Plan (Java) 🚀
 
 ## Goal
+
 Build strong Data Structures and Algorithms (DSA) concepts using **Java**, with daily problem solving and structured learning.
 
 ---
@@ -18,18 +19,23 @@ Build strong Data Structures and Algorithms (DSA) concepts using **Java**, with 
 ## Resources
 
 ### 1. Concept Learning
+
 - YouTube: https://www.youtube.com/watch?v=0bHoB32fuj0
 
 ### 2. Structured DSA Sheet
+
 - Striver A2Z Sheet: https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 
 ### 3. Java DSA Bootcamp
+
 - GitHub: https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
 
 ### 4. Very Difficult DSA Questions
+
 - GitHub: https://github.com/mrpkdeveloper/450-DSA-Questions
 
 ### 5. Practice Platform
+
 - LeetCode
 
 ---
@@ -37,11 +43,13 @@ Build strong Data Structures and Algorithms (DSA) concepts using **Java**, with 
 ## Daily Plan 📅
 
 ### Daily Questions
+
 - 1 Easy Question
 - 4 Medium Questions
 - ChatGPT: Ask for similar concept questions
 
 ### Weekly Questions
+
 - Minimum 2 Hard Questions
 
 ---
@@ -49,17 +57,20 @@ Build strong Data Structures and Algorithms (DSA) concepts using **Java**, with 
 ## Daily Workflow
 
 ### Step 1: Learn Concept
+
 - Watch YouTube video
 - Read Striver A2Z topic
 - Read Java Bootcamp notes
 
 ### Step 2: Practice
+
 - Solve 1 Easy Question
-- Solve 4 Medium Questions
+- Solve 4 Medium Questions per Week
 - Ask ChatGPT:
   > Give me similar questions on this concept
 
 ### Step 3: Weekly Challenge
+
 - Solve 2 Hard Questions from:
   - Striver Sheet
   - 450 DSA Questions
@@ -70,15 +81,18 @@ Build strong Data Structures and Algorithms (DSA) concepts using **Java**, with 
 ## Weekly Structure
 
 ### Monday to Friday
+
 - Concept Learning
 - Easy + Medium Questions
 
 ### Saturday
+
 - Revision
 - Medium Questions
 - 1 Hard Question
 
 ### Sunday
+
 - Revision
 - 1 Hard Question
 - Analyze mistakes
@@ -154,4 +168,3 @@ Give me 2 Hard Binary Search problems from LeetCode
 ---
 
 **Consistency is the key to DSA mastery 🔥**
-
